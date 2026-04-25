@@ -31,3 +31,16 @@ button {
   border: none;
   cursor: pointer;
 }
+btn {
+  background-color: #007bff; /* Midabka buluugga ah */
+  color: white;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 5px;
+  display: inline-block;
+  transition: 0.3s;
+}
+
+.btn:hover {
+  background-color: #0056b3; /* Midabka marka mouse-ka la dul dhigo */
+}
